@@ -1,0 +1,15 @@
+C:\Users\DEHGHAN\Desktop\c#\fibonachi\bin\Debug\net6.0\fibonachi.exe
+C:\Users\DEHGHAN\Desktop\c#\fibonachi\bin\Debug\net6.0\fibonachi.deps.json
+C:\Users\DEHGHAN\Desktop\c#\fibonachi\bin\Debug\net6.0\fibonachi.runtimeconfig.json
+C:\Users\DEHGHAN\Desktop\c#\fibonachi\bin\Debug\net6.0\fibonachi.dll
+C:\Users\DEHGHAN\Desktop\c#\fibonachi\bin\Debug\net6.0\fibonachi.pdb
+C:\Users\DEHGHAN\Desktop\c#\fibonachi\obj\Debug\net6.0\fibonachi.csproj.AssemblyReference.cache
+C:\Users\DEHGHAN\Desktop\c#\fibonachi\obj\Debug\net6.0\fibonachi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DEHGHAN\Desktop\c#\fibonachi\obj\Debug\net6.0\fibonachi.AssemblyInfoInputs.cache
+C:\Users\DEHGHAN\Desktop\c#\fibonachi\obj\Debug\net6.0\fibonachi.AssemblyInfo.cs
+C:\Users\DEHGHAN\Desktop\c#\fibonachi\obj\Debug\net6.0\fibonachi.csproj.CoreCompileInputs.cache
+C:\Users\DEHGHAN\Desktop\c#\fibonachi\obj\Debug\net6.0\fibonachi.dll
+C:\Users\DEHGHAN\Desktop\c#\fibonachi\obj\Debug\net6.0\refint\fibonachi.dll
+C:\Users\DEHGHAN\Desktop\c#\fibonachi\obj\Debug\net6.0\fibonachi.pdb
+C:\Users\DEHGHAN\Desktop\c#\fibonachi\obj\Debug\net6.0\fibonachi.genruntimeconfig.cache
+C:\Users\DEHGHAN\Desktop\c#\fibonachi\obj\Debug\net6.0\ref\fibonachi.dll
